@@ -1,0 +1,72 @@
+@font-face {
+    font-family: miFuente;
+    src: url(../FONTS/hello/Hello.ttf);
+}
+@font-face {
+    font-family:miFuente2 ;
+    src: url(../FONTS/neoteric/NEOTERIC©\ -\ Bold\ DEMO\ VERSION.ttf);
+}
+img{
+    /*cambiar automáticamente el tamaño de la imagen de acuerdo con el tamaño del contenedor.*/
+    max-width: 45%;
+    max-height: 50%;
+}
+.photo{
+    text-align: center;
+}
+header{
+    background-image: url(../imagenes/IMG2.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+h1{
+    font-family: miFuente;
+    color: #005677;
+    font-size: 35px;
+
+    text-align: center;
+    letter-spacing: 7px;
+    background-color:#C4C4C4;
+    font-weight: bold; 
+}
+i{
+    color: black;
+    font-size:25px;
+}
+a{
+    font-size: 30px;
+    font-family: miFuente;
+    text-align: center;
+}
+
+h2{
+    font-family: miFuente2;
+    color: #005677;   
+    letter-spacing: 3px; 
+    background-color: #C4C4C4;
+    
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    Line-height: 22px;
+}
+.Datos{
+    font-style: italic;
+    font-weight: bold;
+}
+.años{
+    font-weight: bold;  
+}
+.formacion{
+    margin-left: 80px;
+}
+footer{
+    background-color: #005677;
+    text-align: center;
+    color: #FFFFFF;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 22px;
+}

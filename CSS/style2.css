@@ -1,0 +1,15 @@
+@font-face {
+    font-family:miFuente2 ;
+    src: url(../FONTS/neoteric/NEOTERIC©\ -\ Bold\ DEMO\ VERSION.ttf);
+}
+body{
+    background-image: url(../imagenes/IMG2.jpg);
+    background-size: cover;
+}
+a,p{
+    font-size: 20px;
+    font-family: miFuente2;
+}
+i{
+    font-size: 20px;
+}
